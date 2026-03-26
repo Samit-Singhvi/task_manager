@@ -1,0 +1,13 @@
+swagger: "2.0"
+info:
+  title: Flask Authentication API
+  description: API documentation for login, signup, and change operations
+  version: "1.0.0"
+host: "localhost:5000"
+basePath: "/"
+schemes:
+  - http
+consumes:
+  - application/json
+produces:
+  - application/json
